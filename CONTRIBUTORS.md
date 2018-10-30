@@ -17,3 +17,11 @@
 * DEV: [jerodsanto](https://dev.to/jerodsanto)
 * Portfolio: [jerodsanto.net](https://jerodsanto.net)
 
+## Name: Alugbin Abiodun
+* Place: Ikoyi, Lagos, Nigeria
+* Job: [Backend Developer]
+* Github: [lordrahl90] (https://github.com/lordrahl90)
+* LinkedIn: [Alugbin Abiodun] (https://linkedin.com/in/lordrahl001)
+* Twitter: [LordRahl90] (https://twitter.com/LordRahl90)
+* Dev: [lordrahl90] (https://dev.to/lordrahl90)
+* Portfolio: In view
